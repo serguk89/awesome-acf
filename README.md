@@ -46,6 +46,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Justified Image Grid](https://github.com/tmconnect/ACF-Justified-Image-Grid) - create an elegant and full responsive image grid.
 * [Layer Slider](https://github.com/tkin1235/acf-layer_slider) - adds a Layer Slider field.
 * [Leaflet map](https://github.com/jensjns/acf-leaflet-field) - adds a Leaflet map-field.
+* [Location Nav](https://wordpress.org/plugins/location-nav-menu-for-acf/) - Unleash the full power of the ACF PRO plugin to extend WordPress menu functionality. With this add-on, you can display custom fields of different types directly under general menu field items while editing your menu in the admin panel.
 * [Markdown](https://github.com/jensjns/acf-markdown-field) - a textarea with some extra tools and features that makes writing markdown more fun.
 * [Menu Chooser](https://github.com/reyhoun/acf-menu-chooser) - allows you to select a menu.
 * [Nav Menu Field](https://github.com/jgraup/advanced-custom-fields-nav-menu-field) - allowing you to select from the menus you create in the WordPress Admin backend to use on your website's frontend.
