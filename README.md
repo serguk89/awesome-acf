@@ -55,6 +55,7 @@ A collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Pages by Template](https://github.com/jonathan-dejong/acf-pages-by-template) - Select a page, filtered on pages of a specific template.
 * [Pardot Form](https://github.com/adriangonzales/acf-pardot-forms) - Embedding Pardot Forms via an ACF dropdown.
 * [PayPal](https://github.com/mikerodriguez/acf-paypal-field) - Integrate PayPal forms onto your WP site with the use of ACF.
+* [Post Creation](https://wordpress.org/plugins/quick-and-easy-post-creation-for-acf-relationship-fields/) - Quick & Easy Post creation on your Advanced Custom Fields (ACF) 'Relationship' & 'Post Object' Fields.
 * [Post Type Chooser](https://github.com/reyhoun/acf-post-type-chooser) - Create a select field populated with selected post types.
 * [Post Type Selector](https://github.com/TimPerry/acf-post-type-selector) - Provides the option to select a single or multiple post types.
 * [Polylang Fix Relationships](https://github.com/mcguffin/polylang-fix-relationships) - Manage post relationships like attachments or (ACF Relational fields) which are not covered by Polylang plugin.
@@ -75,6 +76,7 @@ A collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Sites](https://github.com/jonathan-dejong/acf-sites) - Provides a field containing the sites in a multisite network.
 * [signature](https://github.com/AsmodeusNOIR/acf-signature) - Signature field.
 * [Star Rating](https://github.com/kevdotbadger/acf-star-rating) - A simple star rating field.
+* [Styles](https://github.com/ractoon/acf-section-styles) - An ACF Pro field plugin to configure CSS styles including margin, borders, padding, and backgrounds.
 * [Sub Field Chooser](https://github.com/reyhoun/acf-subfield-chooser) - Return custom subfield value of a custom repeater field as a select box.
 * [Smart Button](https://github.com/gillesgoetsch/acf-smart-button) - A simple, clean and lean acf Field that allows the user to select an internal link as a post_object or an external link as a url field via a smooth toggle.
 * [TablePress] (https://github.com/tylerdigital/acf-tablepress) - Select a TablePress table.
