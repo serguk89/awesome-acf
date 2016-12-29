@@ -13,6 +13,7 @@ A collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Autocomplete Field](https://github.com/iambriansreed/Advanced-Custom-Fields-Autocomplete) - Simple field that looks up values previously entered for this field.
 * [Animate Parameter](https://github.com/reyhoun/acf-animate-parameter) - Get Animate Parameter from user.
 * [Background](https://github.com/reyhoun/acf-background) - Provides a field containing the all background css attribute.
+* [ACF: Better Search](https://wordpress.org/plugins/acf-better-search/) - This plugin adds to default WordPress search engine the ability to search by content from selected fields of Advanced Custom Fields plugin.
 * [Bidirectional Post Relation](https://github.com/hereswhatidid/acf-2way-pr) - Creates an extended version of the Related Post field type that is bidirectional.
 * [BuddyForms ACF](https://wordpress.org/plugins/buddyforms-acf/) - Integrates the popular Plugin "Advanced Custom Fields" (ACF) with BuddyForms. Use all ACF Fields in your form like native BuddyForms forms.
 * [Code](https://github.com/mbovel/acf-code) - Code editor field (Ace Code Editor).
