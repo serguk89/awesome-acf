@@ -95,6 +95,7 @@ A collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Tweet](https://github.com/francoiscote/acf-field-tweet) - Gets a single Tweet Data from the twitter API from the tweet ID.
 * [Typography](https://github.com/reyhoun/acf-typography) - Provides a field containing the all font css attribute with google font support.
 * [Validated Field](https://wordpress.org/plugins/validated-field-for-acf/) - Provides input masking and validation of other field types.
+* [User Role Field Setting for ACF](https://wordpress.org/plugins/user-role-field-setting-for-acf/) - This plugin adds a field setting to all field types so that user roles allowed to edit the field can be selected. Only those roles selected for the field will be able to edit the field.
 * [Website](https://github.com/Jeradin/acf-website-field) - Add-on for Website URLs, allows for website URL, title and a checkbox to open externally or internally.
 * [WooCommerce](https://wordpress.org/plugins/loushou-acf-for-woocommerce/) - Allows you to add fields to the WooCommerce Checkout and My Account pages, or display fields you setup on a Product Category, on the Archive Products.
 * [WooCommerce](https://wordpress.org/plugins/acf-for-woocommerce-product/) - ACF for WooCommerce Product plugin lets you display WooCommerce product ACF field in label value form in fornt end on single product age.
