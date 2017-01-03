@@ -60,6 +60,7 @@ A collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Pages by Template](https://github.com/jonathan-dejong/acf-pages-by-template) - Select a page, filtered on pages of a specific template.
 * [Pardot Form](https://github.com/adriangonzales/acf-pardot-forms) - Embedding Pardot Forms via an ACF dropdown.
 * [PayPal](https://github.com/mikerodriguez/acf-paypal-field) - Integrate PayPal forms onto your WP site with the use of ACF.
+* [Post 2 Post for ACF](https://wordpress.org/plugins/post-2-post-for-acf/) - Automatic Two Way (Bidirectional) Relationships with ACF5.
 * [Post Creation](https://wordpress.org/plugins/quick-and-easy-post-creation-for-acf-relationship-fields/) - Quick & Easy Post creation on your Advanced Custom Fields (ACF) 'Relationship' & 'Post Object' Fields.
 * [Post Type Chooser](https://github.com/reyhoun/acf-post-type-chooser) - Create a select field populated with selected post types.
 * [Post Type Selector](https://github.com/TimPerry/acf-post-type-selector) - Provides the option to select a single or multiple post types.
