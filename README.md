@@ -6,6 +6,7 @@ A collection of third party add-ons for [Advanced Custom Field](http://www.advan
 ## Third-Party Add-Ons
 *Compatible with Version 5.*
 
+* [ACF Medium Editor Field](https://wordpress.org/plugins/acf-medium-editor-field/) - Medium Editor Field for ACF.
 * [Address](https://github.com/strickdj/acf-field-address) - A field to hold an address: street, city, state, country.
 * [Address/Map](https://github.com/chrisgoddard/acf-address-map-field) - A better map field for Advanced Custom Fields (includes address, phone, website, etc).
 * [Advanced Taxonomy Selector](https://github.com/danielpataki/acf-advanced-taxonomy-selector) - Allows you to create a field for users to select terms from multiple taxonomies.
