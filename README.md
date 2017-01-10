@@ -6,6 +6,7 @@ A collection of third party add-ons for [Advanced Custom Field](http://www.advan
 ## Third-Party Add-Ons
 *Compatible with Version 5.*
 
+* [ACF Complex Titles](https://github.com/MWDelaney/acf-complex-titles) - Complex titles with previews for WordPress content types using Advanced Custom Fields Pro 5.
 * [ACF Medium Editor Field](https://wordpress.org/plugins/acf-medium-editor-field/) - Medium Editor Field for ACF.
 * [ACF Real Media Library Field](https://wordpress.org/plugins/acf-real-media-library-field/) - Add field type to select a media folder (Real Media Library extension).
 * [Address](https://github.com/strickdj/acf-field-address) - A field to hold an address: street, city, state, country.
