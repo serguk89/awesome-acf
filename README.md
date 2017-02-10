@@ -10,6 +10,7 @@ A collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [ACF Medium Editor Field](https://wordpress.org/plugins/acf-medium-editor-field/) - Medium Editor Field for ACF.
 * [ACF Output Helper Functions](https://github.com/mrwweb/acf-helper-functions) - A powerful set of functions for outputting common markup patterns with Advanced Custom Fields Plugin for WordPress.
 * [ACF Real Media Library Field](https://wordpress.org/plugins/acf-real-media-library-field/) - Add field type to select a media folder (Real Media Library extension).
+* [ACF Sites Field](https://github.com/jonathan-dejong/acf-sites) - Addon for Advanced Custom Fields which provides a field containing the sites in a multisite network.
 * [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - Exposes Advanced Custom Fields Endpoints in the WP REST API v2.
 * [ACF for WooCommerce](https://wordpress.org/plugins/acf-for-woocommerce/) - Show custom fields with conditional logic on front-end like Checkout page, Single product page.
 * [Address](https://github.com/strickdj/acf-field-address) - A field to hold an address: street, city, state, country.
