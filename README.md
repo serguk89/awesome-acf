@@ -7,6 +7,7 @@ A collection of third party add-ons for [Advanced Custom Field](http://www.advan
 *Compatible with Version 5.*
 
 * [ACF Complex Titles](https://github.com/MWDelaney/acf-complex-titles) - Complex titles with previews for WordPress content types using Advanced Custom Fields Pro 5.
+* [ACF Fluent](https://github.com/samrap/acf-fluent) - A fluent interface for the Advanced Custom Fields WordPress plugin.
 * [ACF Frontend Display](https://wordpress.org/plugins/acf-frontend-display-by-catsplugins/) - Show custom fields with markup on frontend by shortcode.
 * [ACF: Image Hotspots Field](https://wordpress.org/plugins/acf-image-mapping-hotspots/) - Advanced Custom Fields add-on to allow the capturing of coordinates on an image, based on user clicks.
 * [ACF Medium Editor Field](https://wordpress.org/plugins/acf-medium-editor-field/) - Medium Editor Field for ACF.
