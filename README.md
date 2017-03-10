@@ -11,6 +11,7 @@ A collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [ACF Frontend Display](https://wordpress.org/plugins/acf-frontend-display-by-catsplugins/) - Show custom fields with markup on frontend by shortcode.
 * [ACF: Image Hotspots Field](https://wordpress.org/plugins/acf-image-mapping-hotspots/) - Advanced Custom Fields add-on to allow the capturing of coordinates on an image, based on user clicks.
 * [ACF Medium Editor Field](https://wordpress.org/plugins/acf-medium-editor-field/) - Medium Editor Field for ACF.
+* [ACF - Relationship MIME type filter](https://wordpress.org/plugins/acf-relationship-mime-type-filter/) - This plugin is an add-on for Advanced Custom Fields. It allows you to use "post_mime_type" filter in "relationship" field.
 * [ACF Output Helper Functions](https://github.com/mrwweb/acf-helper-functions) - A powerful set of functions for outputting common markup patterns with Advanced Custom Fields Plugin for WordPress.
 * [ACF Real Media Library Field](https://wordpress.org/plugins/acf-real-media-library-field/) - Add field type to select a media folder (Real Media Library extension).
 * [ACF Sites Field](https://github.com/jonathan-dejong/acf-sites) - Addon for Advanced Custom Fields which provides a field containing the sites in a multisite network.
