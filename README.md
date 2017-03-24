@@ -7,6 +7,7 @@ A collection of third party add-ons for [Advanced Custom Field](http://www.advan
 *Compatible with Version 5.*
 
 * [ACF Advanced Search](https://wordpress.org/plugins/acf-advanced-search/) - This plugin extends the WordPress search widget and allows to search by content with filters in fields created using Advanced Custom Fields plugin.
+* [ACF Columns](https://wordpress.org/plugins/acf-columns/) - With the ACF Columns plugin it is possible to arrange ACF fields in columns in the post editor.
 * [ACF Complex Titles](https://github.com/MWDelaney/acf-complex-titles) - Complex titles with previews for WordPress content types using Advanced Custom Fields Pro 5.
 * [ACF Admin Flexible Content Collapse](https://wordpress.org/plugins/acf-admin-flexible-content-collapse/) - Collapse and expand the layout settings in ACF field editor for a better overview and easier sorting of the layouts or moving fields between layouts.
 * [ACF Fluent](https://github.com/samrap/acf-fluent) - A fluent interface for the Advanced Custom Fields WordPress plugin.
@@ -17,6 +18,7 @@ A collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [ACF Output Helper Functions](https://github.com/mrwweb/acf-helper-functions) - A powerful set of functions for outputting common markup patterns with Advanced Custom Fields Plugin for WordPress.
 * [ACF Real Media Library Field](https://wordpress.org/plugins/acf-real-media-library-field/) - Add field type to select a media folder (Real Media Library extension).
 * [ACF Sites Field](https://github.com/jonathan-dejong/acf-sites) - Addon for Advanced Custom Fields which provides a field containing the sites in a multisite network.
+* [ACF Tooltip](https://wordpress.org/plugins/acf-tooltip/) - Displays ACF field instructions as tooltips.
 * [Advanced Custom Fields: Token Field](https://wordpress.org/plugins/token-field-for-advanced-custom-fields/) - Adds a tokenized text box for saving comma separated values.
 * [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - Exposes Advanced Custom Fields Endpoints in the WP REST API v2.
 * [ACF for WooCommerce](https://wordpress.org/plugins/acf-for-woocommerce/) - Show custom fields with conditional logic on front-end like Checkout page, Single product page.
