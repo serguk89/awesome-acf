@@ -82,6 +82,7 @@ A collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Post Creation](https://wordpress.org/plugins/quick-and-easy-post-creation-for-acf-relationship-fields/) - Quick & Easy Post creation on your Advanced Custom Fields (ACF) 'Relationship' & 'Post Object' Fields.
 * [Post Type Chooser](https://github.com/reyhoun/acf-post-type-chooser) - Create a select field populated with selected post types.
 * [Post Type Selector](https://github.com/TimPerry/acf-post-type-selector) - Provides the option to select a single or multiple post types.
+* [Post Type Select Field for ACF](https://wordpress.org/plugins/post-type-select-for-advanced-custom-fields/) - Post Type Select for Advanced Custom Fields provides a select field for choosing a WordPress Post Type.
 * [Polylang Fix Relationships](https://github.com/mcguffin/polylang-fix-relationships) - Manage post relationships like attachments or (ACF Relational fields) which are not covered by Polylang plugin.
 * [Price](https://github.com/speccode/acf-field-price) - Price Field.
 * [QuickEdit](https://github.com/mcguffin/acf-quick-edit-fields) - QuickEdit and BulkEdit for Advanced Custom Fields.
