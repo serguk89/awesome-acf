@@ -12,6 +12,7 @@ A collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [ACF Admin Flexible Content Collapse](https://wordpress.org/plugins/acf-admin-flexible-content-collapse/) - Collapse and expand the layout settings in ACF field editor for a better overview and easier sorting of the layouts or moving fields between layouts.
 * [ACF Fluent](https://github.com/samrap/acf-fluent) - A fluent interface for the Advanced Custom Fields WordPress plugin.
 * [ACF Frontend Display](https://wordpress.org/plugins/acf-frontend-display-by-catsplugins/) - Show custom fields with markup on frontend by shortcode.
+* [ACF Gravity Forms Add-on](https://wordpress.org/plugins/acf-gravityforms-add-on/) - Advanced Custom Field with which we can select Gravity forms.
 * [ACF Hider](https://wordpress.org/plugins/acf-hider/) - Hides the Advanced Custom Fields menu item in the Admin Dashboard.
 * [ACF: Image Hotspots Field](https://wordpress.org/plugins/acf-image-mapping-hotspots/) - Advanced Custom Fields add-on to allow the capturing of coordinates on an image, based on user clicks.
 * [ACF Medium Editor Field](https://wordpress.org/plugins/acf-medium-editor-field/) - Medium Editor Field for ACF.
