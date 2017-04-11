@@ -106,13 +106,13 @@ A collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Styles](https://github.com/ractoon/acf-section-styles) - An ACF Pro field plugin to configure CSS styles including margin, borders, padding, and backgrounds.
 * [Sub Field Chooser](https://github.com/reyhoun/acf-subfield-chooser) - Return custom subfield value of a custom repeater field as a select box.
 * [Smart Button](https://github.com/gillesgoetsch/acf-smart-button) - A simple, clean and lean acf Field that allows the user to select an internal link as a post_object or an external link as a url field via a smooth toggle.
-* [TablePress] (https://github.com/tylerdigital/acf-tablepress) - Select a TablePress table.
-* [Tag Field] (https://github.com/kolhoffmmm/acf_tags) - Creates a simple field to add & edit non hieratchical taxonomies, possible to add taxonomies.
-* [Term] (https://github.com/osadi/osadi-acf-field-term) - Dropdown or multiselect of all available terms.
-* [Timezone] (https://github.com/DocWatson/acf-timezone-picker) - Allows you to pick from a list of Time Zones.
-* [Token Input] (https://wordpress.org/plugins/acf-token-input/) - Bringing the functionality into ACF similar to Facebook whereby you can search and select multiple items.
-* [Tooltips] (https://github.com/tmconnect/ACF-Tooltip) - Hides the instructions, adds a help symbol to the label of the fields and generate a tooltip of the instuction.
-* [ACF Tooltip Helper] (https://codecanyon.net/item/acf-tooltip-helper/17971571) - Improve your admin by converting ACF description fields into nice tooltips
+* [TablePress](https://github.com/tylerdigital/acf-tablepress) - Select a TablePress table.
+* [Tag Field](https://github.com/kolhoffmmm/acf_tags) - Creates a simple field to add & edit non hieratchical taxonomies, possible to add taxonomies.
+* [Term](https://github.com/osadi/osadi-acf-field-term) - Dropdown or multiselect of all available terms.
+* [Timezone](https://github.com/DocWatson/acf-timezone-picker) - Allows you to pick from a list of Time Zones.
+* [Token Input](https://wordpress.org/plugins/acf-token-input/) - Bringing the functionality into ACF similar to Facebook whereby you can search and select multiple items.
+* [Tooltips](https://github.com/tmconnect/ACF-Tooltip) - Hides the instructions, adds a help symbol to the label of the fields and generate a tooltip of the instuction.
+* [ACF Tooltip Helper](https://codecanyon.net/item/acf-tooltip-helper/17971571) - Improve your admin by converting ACF description fields into nice tooltips.
 * [Tweet](https://github.com/francoiscote/acf-field-tweet) - Gets a single Tweet Data from the twitter API from the tweet ID.
 * [Typography](https://github.com/reyhoun/acf-typography) - Provides a field containing the all font css attribute with google font support.
 * [Validated Field](https://wordpress.org/plugins/validated-field-for-acf/) - Provides input masking and validation of other field types.
