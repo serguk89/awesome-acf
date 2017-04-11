@@ -120,7 +120,7 @@ A collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Website](https://github.com/Jeradin/acf-website-field) - Add-on for Website URLs, allows for website URL, title and a checkbox to open externally or internally.
 * [WooCommerce](https://wordpress.org/plugins/loushou-acf-for-woocommerce/) - Allows you to add fields to the WooCommerce Checkout and My Account pages, or display fields you setup on a Product Category, on the Archive Products.
 * [WooCommerce](https://wordpress.org/plugins/acf-for-woocommerce-product/) - ACF for WooCommerce Product plugin lets you display WooCommerce product ACF field in label value form in fornt end on single product age.
-* [Widgets](http://acfwidgets.com/) - With ACFW, you can easily create new widgets without touching any code.
+* [ACF Widgets](https://github.com/Daronspence/acf-widgets) - ACF Widgets (ACFW) allows users to easily create widgets to use with ACF. With ACFW, you can easily create new widgets without touching any code. No PHP classes or dealing with the Widgets API. After you create a widget, you can assign custom fields within ACF and then use theme templates to easily show the custom fields.
 * [Widget Area](https://github.com/dustyf/acf-widget-area) - Allows you to pick a widget area to be displayed on a page.
 * [Widget Area](https://github.com/bonnerl/acf-widget-area) - Selecting a widget area from registered sidebars.
 * [WPML ACF Relations](https://github.com/mcguffin/wpml-acf-relations) - Sets ACF Relations to their translated versions when duplicating a WordPress Post for translation with WPML.
