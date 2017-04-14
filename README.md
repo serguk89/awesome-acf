@@ -51,6 +51,7 @@ A collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Currency](https://github.com/nekojira/wp-currencies) - Choose currencies using WP Currencies.
 * [Date and Time Picker](https://github.com/soderlind/acf-field-date-time-picker) - allows you to add a Date and Time Picker field type.
 * [Divider](https://github.com/Kreshnik/acf-divider-field) - An divider field that lets you group multiple fields under an divider.
+* [Disable ACF on Frontend](https://github.com/leepeterson/acf-disable-frontend) - Disable ACF functions on the front-end of WordPress in order to provide a performance boost.
 * [Dynamic Year](https://wordpress.org/plugins/acf-dynamic-year-select-field/) - Adds a dynamic year select option for Advanced Custom Fields.
 * [Dynamic Table](https://github.com/Jeradin/acf-dynamic-table-field) - Adds a Dynamic Table Field to Advanced Custom Fields.
 * [Enhanced Message Field](https://wordpress.org/plugins/acf-enhanced-message-field/) - Adds an enhanced version of the default Message field to accept PHP and certainly no wpauto().
