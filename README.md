@@ -1,7 +1,7 @@
-Awesome Advanced Custom Field
+Awesome Advanced Custom Fields
 ===========
 
-A collection of third party add-ons for [Advanced Custom Field](http://www.advancedcustomfields.com/) plugin.
+A collection of third party add-ons for [Advanced Custom Fields](http://www.advancedcustomfields.com/) plugin.
 
 ## Third-Party Add-Ons
 *Compatible with Version 5.*
