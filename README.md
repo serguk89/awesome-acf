@@ -7,6 +7,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 *Compatible with Version 5.*
 
 * [ACF Advanced Search](https://wordpress.org/plugins/acf-advanced-search/) - This plugin extends the WordPress search widget and allows to search by content with filters in fields created using Advanced Custom Fields plugin.
+* [ACF Contact Form 7 Field](https://github.com/lukecav/acf-cf7) - Adds a 'Contact Form 7' field type for the Advanced Custom Fields WordPress plugin.
 * [ACF Columns](https://wordpress.org/plugins/acf-columns/) - With the ACF Columns plugin it is possible to arrange ACF fields in columns in the post editor.
 * [ACF Complex Titles](https://github.com/MWDelaney/acf-complex-titles) - Complex titles with previews for WordPress content types using Advanced Custom Fields Pro 5.
 * [ACF Country field](https://github.com/nlemoine/acf-country) - Adds a 'Country' field type for the Advanced Custom Fields WordPress plugin.
