@@ -9,6 +9,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Advanced Search](https://wordpress.org/plugins/acf-advanced-search/) - This plugin extends the WordPress search widget and allows to search by content with filters in fields created using Advanced Custom Fields plugin.
 * [ACF Columns](https://wordpress.org/plugins/acf-columns/) - With the ACF Columns plugin it is possible to arrange ACF fields in columns in the post editor.
 * [ACF Complex Titles](https://github.com/MWDelaney/acf-complex-titles) - Complex titles with previews for WordPress content types using Advanced Custom Fields Pro 5.
+* [ACF Country field](https://github.com/nlemoine/acf-country) - Adds a 'Country' field type for the Advanced Custom Fields WordPress plugin.
 * [ACF Admin Flexible Content Collapse](https://wordpress.org/plugins/acf-admin-flexible-content-collapse/) - Collapse and expand the layout settings in ACF field editor for a better overview and easier sorting of the layouts or moving fields between layouts.
 * [ACF Fluent](https://github.com/samrap/acf-fluent) - A fluent interface for the Advanced Custom Fields WordPress plugin.
 * [ACF Frontend Display](https://wordpress.org/plugins/acf-frontend-display-by-catsplugins/) - Show custom fields with markup on frontend by shortcode.
