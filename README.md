@@ -93,7 +93,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [Post Type Select Field for ACF](https://wordpress.org/plugins/post-type-select-for-advanced-custom-fields/) - Post Type Select for Advanced Custom Fields provides a select field for choosing a WordPress Post Type.
 * [Polylang Fix Relationships](https://github.com/mcguffin/polylang-fix-relationships) - Manage post relationships like attachments or (ACF Relational fields) which are not covered by Polylang plugin.
 * [Price](https://github.com/speccode/acf-field-price) - Price Field.
-* [QuickEdit](https://github.com/mcguffin/acf-quick-edit-fields) - QuickEdit and BulkEdit for Advanced Custom Fields.
+* [ACF QuickEdit Fields](https://github.com/mcguffin/acf-quick-edit-fields) - QuickEdit and BulkEdit for Advanced Custom Fields.
 * [qTranslate X](https://github.com/alancwoo/acf-qtranslate-x-text-area) - Text Area field for qTranslate X.
 * [Random String](https://github.com/lukechapman/acf-random-string-field) - Generates a random string.
 * [reCAPTCHA](https://github.com/irvinlim/acf-recaptcha) - Google's No-CAPTCHA reCAPTCHA, to be used on frontend forms.
