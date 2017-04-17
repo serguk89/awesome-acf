@@ -12,6 +12,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Admin Flexible Content Collapse](https://wordpress.org/plugins/acf-admin-flexible-content-collapse/) - Collapse and expand the layout settings in ACF field editor for a better overview and easier sorting of the layouts or moving fields between layouts.
 * [ACF Fluent](https://github.com/samrap/acf-fluent) - A fluent interface for the Advanced Custom Fields WordPress plugin.
 * [ACF Frontend Display](https://wordpress.org/plugins/acf-frontend-display-by-catsplugins/) - Show custom fields with markup on frontend by shortcode.
+* [ACF Front End Editor](https://github.com/HorionDigital/advanced-custom-fields-front-end-editor) - The add-on allows admins to edit text fields, textareas and wysiwyg fields from front end simillary as you would edit a Google doc.
 * [ACF Gravity Forms Add-on](https://wordpress.org/plugins/acf-gravityforms-add-on/) - Advanced Custom Field with which you can select Gravity forms.
 * [ACF Hider](https://wordpress.org/plugins/acf-hider/) - Hides the Advanced Custom Fields menu item in the Admin Dashboard.
  [ACF Location Rules](https://github.com/billerickson/acf-location-rules) - Custom location rules for Advanced Custom Fields.
