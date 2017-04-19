@@ -134,7 +134,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [Widget Area](https://github.com/bonnerl/acf-widget-area) - Selecting a widget area from registered sidebars.
 * [WP-CLI for Advanced Custom Fields](https://github.com/hoppinger/advanced-custom-fields-wpcli) - WP-CLI for Advanced Custom Fields helps you manage your field-groups through WP-CLI.
 * [WPML ACF Relations](https://github.com/mcguffin/wpml-acf-relations) - Sets ACF Relations to their translated versions when duplicating a WordPress Post for translation with WPML.
-* [YouTube Picker](https://github.com/airesvsg/acf-youtubepicker) - Search and select videos on YouTube without leaving the page.
+* [ACF YouTube Picker](https://wordpress.org/plugins/acf-youtube-picker/) - Search and select videos on YouTube without leaving the page.
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in [awesome awesomeness](https://github.com/bayandin/awesome-awesomeness).
