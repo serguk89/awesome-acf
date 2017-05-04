@@ -37,6 +37,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [Address/Map](https://github.com/chrisgoddard/acf-address-map-field) - A better map field for Advanced Custom Fields (includes address, phone, website, etc).
 * [Advanced Taxonomy Selector](https://github.com/danielpataki/acf-advanced-taxonomy-selector) - Allows you to create a field for users to select terms from multiple taxonomies.
 * [Auto-generated value](https://github.com/andersthorborg/ACF-auto-generated-value) - Creates a hidden/readonly field in a repeater that gets a unique key, that won't change once it is saved.
+* [Ajax Load More for Advanced Custom Fields](https://wordpress.org/plugins/ajax-load-more-for-acf/#developers) - An Ajax Load More extension that adds compatibility for ACF field types.
 * [Autocomplete Field](https://github.com/iambriansreed/Advanced-Custom-Fields-Autocomplete) - Simple field that looks up values previously entered for this field.
 * [Animate Parameter](https://github.com/reyhoun/acf-animate-parameter) - Get Animate Parameter from user.
 * [Background](https://github.com/reyhoun/acf-background) - Provides a field containing the all background css attribute.
