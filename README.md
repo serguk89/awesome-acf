@@ -61,6 +61,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [Dynamic Table](https://github.com/Jeradin/acf-dynamic-table-field) - Adds a Dynamic Table Field to Advanced Custom Fields.
 * [Enhanced Message Field](https://wordpress.org/plugins/acf-enhanced-message-field/) - Adds an enhanced version of the default Message field to accept PHP and certainly no wpauto().
 * [Fancy Repeater](https://github.com/lucasstark/acf-fancy-repeater-field) - An updated user interface for Repeater Field.
+* [Fast Flexy Content](https://wordpress.org/plugins/acf-fast-flexy/) - Customize ACF Flexible field with zero coding.
 * [Fewbricks](https://github.com/folbert/fewbricks) - A module extension to Advanced Custom Fields.
 * [Field Selector](https://github.com/danielpataki/acf-field_selector_field) - Allows you to select a custom set of fields.
 * [Frontend display](https://github.com/dadmor/ACF_frontend_display) - Display ACF form on frontend your site.
