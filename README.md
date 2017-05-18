@@ -73,6 +73,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [Google Font Selector](https://github.com/wp-plugins/acf-google-font-selector-field) - Allow users to select Google Fonts.
 * [Google Map Extended](https://github.com/codewahoo/acf-gme) - Extending the functionality of the built-in Google Map field with several handy features..
 * [Google Maps Search Tool For ACF](https://wordpress.org/plugins/acf-search-google-maps/) - This plugin allows you to easily integrate a spacial search functionality into your search form for posts with ACF Google Maps fields.
+* [Gravitate Blocks](https://wordpress.org/plugins/gravitate-blocks/) - Create Content Blocks.
 * [Gravity Forms](https://github.com/stormuk/Gravity-Forms-ACF-Field) - Creates a select field populated with Gravity Forms.
 * [Hue Color Picker](https://github.com/reyhoun/acf-hue-color-picker) - Allow users to select a hue color value.
 * [Icon Selector](https://github.com/Kreshnik/acf-field-icon-font) - Font icon selector field that lets you preview a font icon.
