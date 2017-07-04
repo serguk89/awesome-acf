@@ -30,6 +30,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Output Helper Functions](https://github.com/mrwweb/acf-helper-functions) - A powerful set of functions for outputting common markup patterns with Advanced Custom Fields Plugin for WordPress.
 * [ACF Real Media Library Field](https://wordpress.org/plugins/acf-real-media-library-field/) - Add field type to select a media folder (Real Media Library extension).
 * [ACF Sites Field](https://github.com/jonathan-dejong/acf-sites) - Addon for Advanced Custom Fields which provides a field containing the sites in a multisite network.
+* [ACF Tab Merge](https://wordpress.org/plugins/acf-tab-merge/) - Merges ACF tabs across field groups into a single tab list.
 * [ACF Tooltip](https://wordpress.org/plugins/acf-tooltip/) - Displays ACF field instructions as tooltips.
 * [Advanced Custom Fields: Token Field](https://wordpress.org/plugins/token-field-for-advanced-custom-fields/) - Adds a tokenized text box for saving comma separated values.
 * [ACF qTranslate](https://github.com/funkjedi/acf-qtranslate) - Provides qTranslate compatible ACF field types for Text, Text Area, WYSIWYG, Image and File.
