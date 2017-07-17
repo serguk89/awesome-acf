@@ -24,6 +24,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Medium Editor Field](https://wordpress.org/plugins/acf-medium-editor-field/) - Medium Editor Field for ACF.
 * [ACF Multistep](https://wordpress.org/plugins/acf-multistep/) - ACF Multistep make it easier for your clients to follow to input fields.
 * [ACF Ninjaforms Add-on](https://wordpress.org/plugins/acf-multistep/) - Advanced Custom Field with which we can select Ninjaforms.
+* [ACF Price Field](https://wordpress.org/plugins/acf-price/) - ACF Price field with number format.
 * [ACF Range Field](https://wordpress.org/plugins/acf-ninjaforms-add-on/ - Adds a 'Range' field type for the Advanced Custom Fields WordPress plugin.
 * [ACF - Relationship MIME type filter](https://wordpress.org/plugins/acf-relationship-mime-type-filter/) - This plugin is an add-on for Advanced Custom Fields. It allows you to use "post_mime_type" filter in "relationship" field.
 * [ACF CPT Options Pages](https://github.com/Tusko/ACF-CPT-Options-Pages) - Small addon for ACF Options. Adds ACF options page per custom post type.
