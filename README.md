@@ -21,6 +21,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Hider](https://wordpress.org/plugins/acf-hider/) - Hides the Advanced Custom Fields menu item in the Admin Dashboard.
  [ACF Location Rules](https://github.com/billerickson/acf-location-rules) - Custom location rules for Advanced Custom Fields.
 * [ACF: Image Hotspots Field](https://wordpress.org/plugins/acf-image-mapping-hotspots/) - Advanced Custom Fields add-on to allow the capturing of coordinates on an image, based on user clicks.
+* [ACF Image Sizes](https://wordpress.org/plugins/acf-image-sizes/) - Define the sizes of images created when uploading new images to ACFs image and gallery fields.
 * [ACF Medium Editor Field](https://wordpress.org/plugins/acf-medium-editor-field/) - Medium Editor Field for ACF.
 * [ACF Multistep](https://wordpress.org/plugins/acf-multistep/) - ACF Multistep make it easier for your clients to follow to input fields.
 * [ACF Ninjaforms Add-on](https://wordpress.org/plugins/acf-multistep/) - Advanced Custom Field with which we can select Ninjaforms.
