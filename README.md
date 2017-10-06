@@ -38,6 +38,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Tooltip](https://wordpress.org/plugins/acf-tooltip/) - Displays ACF field instructions as tooltips.
 * [Advanced Custom Fields: Token Field](https://wordpress.org/plugins/token-field-for-advanced-custom-fields/) - Adds a tokenized text box for saving comma separated values.
 * [ACF qTranslate](https://github.com/funkjedi/acf-qtranslate) - Provides qTranslate compatible ACF field types for Text, Text Area, WYSIWYG, Image and File.
+* [Advanced Custom Fields: Rest](https://wordpress.org/plugins/acf-rest/) - Same as select, but options come from rest call.
 * [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - Exposes Advanced Custom Fields Endpoints in the WP REST API v2.
 * [ACF for WooCommerce](https://wordpress.org/plugins/acf-for-woocommerce/) - Show custom fields with conditional logic on front-end like Checkout page, Single product page.
 * [Address](https://github.com/strickdj/acf-field-address) - A field to hold an address: street, city, state, country.
