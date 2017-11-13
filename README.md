@@ -3,7 +3,7 @@ Awesome Advanced Custom Fields
 
 A collection of third party add-ons for [Advanced Custom Fields](http://www.advancedcustomfields.com/) plugin.
 
-## Third-Party Advanced Custom Fields Add-Ons
+## Third-Party Add-Ons
 *Compatible with Version 5.*
 
 * [ACF Advanced Search](https://wordpress.org/plugins/acf-advanced-search/) - This plugin extends the WordPress search widget and allows to search by content with filters in fields created using Advanced Custom Fields plugin.
