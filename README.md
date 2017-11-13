@@ -38,6 +38,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Theme Code for Advanced Custom Fields](https://wordpress.org/plugins/acf-theme-code/) - Generates theme code for ACF field groups to speed up development.
 * [ACF Tooltip](https://wordpress.org/plugins/acf-tooltip/) - Displays ACF field instructions as tooltips.
 * [Advanced Custom Fields: Token Field](https://wordpress.org/plugins/token-field-for-advanced-custom-fields/) - Adds a tokenized text box for saving comma separated values.
+* [Advanced Forms Processors](https://wordpress.org/plugins/acf-processors/) -  Adds form processors to the Advanced Forms plugin.
 * [ACF qTranslate](https://github.com/funkjedi/acf-qtranslate) - Provides qTranslate compatible ACF field types for Text, Text Area, WYSIWYG, Image and File.
 * [Advanced Custom Fields: Rest](https://wordpress.org/plugins/acf-rest/) - Same as select, but options come from rest call.
 * [Advanced Custom Fields: Link Picker Field](https://wordpress.org/plugins/acf-link-picker-field/) - Adds an Advanced Custom Field field that allows the selection of a link utilising the WordPress link picker modal dialog.
