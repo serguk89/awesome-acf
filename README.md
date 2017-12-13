@@ -37,6 +37,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Simple Cache](https://wordpress.org/plugins/acf-simple-cache/) - Boost ACF speed by enabling json caching.
 * [ACF Tab Merge](https://wordpress.org/plugins/acf-tab-merge/) - Merges ACF tabs across field groups into a single tab list.
 * [ACF Theme Code for Advanced Custom Fields](https://wordpress.org/plugins/acf-theme-code/) - Generates theme code for ACF field groups to speed up development.
+* [ACF Tab & Accordion Title Icons](https://wordpress.org/plugins/acf-tab-accordion-title-icons/) - Add icons to the titles of ACF Tabs and Accordions.
 * [ACF Tooltip](https://wordpress.org/plugins/acf-tooltip/) - Displays ACF field instructions as tooltips.
 * [Advanced Custom Fields: Token Field](https://wordpress.org/plugins/token-field-for-advanced-custom-fields/) - Adds a tokenized text box for saving comma separated values.
 * [Advanced Forms Processors](https://wordpress.org/plugins/acf-processors/) -  Adds form processors to the Advanced Forms plugin.
