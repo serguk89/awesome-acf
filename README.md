@@ -37,6 +37,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Sites Field](https://github.com/jonathan-dejong/acf-sites) - Addon for Advanced Custom Fields which provides a field containing the sites in a multisite network.
 * [ACF Simple Cache](https://wordpress.org/plugins/acf-simple-cache/) - Boost ACF speed by enabling json caching.
 * [ACF Tab Merge](https://wordpress.org/plugins/acf-tab-merge/) - Merges ACF tabs across field groups into a single tab list.
+* [ACF Timber Integration](https://wordpress.org/plugins/acf-timber-integration/) - Automatically enables in the Timber twig context variable all user-defined advanced custom fields.
 * [ACF Theme Code for Advanced Custom Fields](https://wordpress.org/plugins/acf-theme-code/) - Generates theme code for ACF field groups to speed up development.
 * [ACF Tab & Accordion Title Icons](https://wordpress.org/plugins/acf-tab-accordion-title-icons/) - Add icons to the titles of ACF Tabs and Accordions.
 * [ACF Tooltip](https://wordpress.org/plugins/acf-tooltip/) - Displays ACF field instructions as tooltips.
