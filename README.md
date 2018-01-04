@@ -36,6 +36,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Options for Polylang](https://github.com/BeAPI/acf-options-for-polylang) - Add ACF options page support for Polylang.
 * [ACF Output Helper Functions](https://github.com/mrwweb/acf-helper-functions) - A powerful set of functions for outputting common markup patterns with Advanced Custom Fields Plugin for WordPress.
 * [ACF Real Media Library Field](https://wordpress.org/plugins/acf-real-media-library-field/) - Add field type to select a media folder (Real Media Library extension).
+* [ACF Save JSON/PHP](https://github.com/BeAPI/acf-save-json) - Choose folder for ACF save auto json field_group.
 * [ACF Sites Field](https://github.com/jonathan-dejong/acf-sites) - Addon for Advanced Custom Fields which provides a field containing the sites in a multisite network.
 * [ACF Simple Cache](https://wordpress.org/plugins/acf-simple-cache/) - Boost ACF speed by enabling json caching.
 * [ACF Tab Merge](https://wordpress.org/plugins/acf-tab-merge/) - Merges ACF tabs across field groups into a single tab list.
