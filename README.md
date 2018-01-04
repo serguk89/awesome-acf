@@ -54,6 +54,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF for WooCommerce](https://wordpress.org/plugins/acf-for-woocommerce/) - Show custom fields with conditional logic on front-end like Checkout page, Single product page.
 * [Address](https://github.com/strickdj/acf-field-address) - A field to hold an address: street, city, state, country.
 * [Advanced Custom Fields: Bootstrap Button](https://wordpress.org/plugins/acf-boostrap-button/) - Add a field to create a Bootstrap Button for the popular Advanced Custom Fields plugin, with internal or external link.
+* [Advanced Custom Fields: User Network](https://github.com/BeAPI/acf-user-network) - Add an ACF User Network list selector.
 * [Address/Map](https://github.com/chrisgoddard/acf-address-map-field) - A better map field for Advanced Custom Fields (includes address, phone, website, etc).
 * [Advanced Taxonomy Selector](https://github.com/danielpataki/acf-advanced-taxonomy-selector) - Allows you to create a field for users to select terms from multiple taxonomies.
 * [Auto-generated value](https://github.com/andersthorborg/ACF-auto-generated-value) - Creates a hidden/readonly field in a repeater that gets a unique key, that won't change once it is saved.
