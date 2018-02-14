@@ -12,6 +12,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Code Helper](https://github.com/RadoslavGeorgiev/acf-code-helper) - Allows you to register fields by using PHP code, but without needing to specify a field key nor use it for conditional logic.
 * [ACF Columns](https://wordpress.org/plugins/acf-columns/) - With the ACF Columns plugin it is possible to arrange ACF fields in columns in the post editor.
 * [ACF Complex Titles](https://github.com/MWDelaney/acf-complex-titles) - Complex titles with previews for WordPress content types using Advanced Custom Fields Pro 5.
+* [ACF Color Swatches](https://wordpress.org/plugins/acf-color-swatches/) - Allows for a radio type selection of a color swatch.
 * [ACF Country field](https://github.com/nlemoine/acf-country) - Adds a 'Country' field type for the Advanced Custom Fields WordPress plugin.
 * [ACF Admin Flexible Content Collapse](https://wordpress.org/plugins/acf-admin-flexible-content-collapse/) - Collapse and expand the layout settings in ACF field editor for a better overview and easier sorting of the layouts or moving fields between layouts.
 * [ACF: Better Search](https://wordpress.org/plugins/acf-better-search/) - Adds to default WordPress search engine the ability to search by content from selected fields of Advanced Custom Fields PRO plugin.
