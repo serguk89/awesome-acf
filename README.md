@@ -34,6 +34,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Post Type Selector](https://github.com/BeAPI/bea-acf-post-type-selector) - Add a post type selector field.
 * [ACF Range Field](https://wordpress.org/plugins/acf-ninjaforms-add-on/ - Adds a 'Range' field type for the Advanced Custom Fields WordPress plugin.
 * [ACF - Relationship MIME type filter](https://wordpress.org/plugins/acf-relationship-mime-type-filter/) - This plugin is an add-on for Advanced Custom Fields. It allows you to use "post_mime_type" filter in "relationship" field.
+* [ACF Stylizer](https://wordpress.org/plugins/acf-stylizer/) - Simple plugin that stylizes Advanced Custom Fields meta boxes to make them more obvious.
 * [ACF CPT Options Pages](https://github.com/Tusko/ACF-CPT-Options-Pages) - Small addon for ACF Options. Adds ACF options page per custom post type.
 * [ACF Options for Polylang](https://github.com/BeAPI/acf-options-for-polylang) - Add ACF options page support for Polylang.
 * [ACF Output Helper Functions](https://github.com/mrwweb/acf-helper-functions) - A powerful set of functions for outputting common markup patterns with Advanced Custom Fields Plugin for WordPress.
