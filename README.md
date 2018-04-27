@@ -138,6 +138,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [Role Selector](https://github.com/danielpataki/acf-role_selector) - Allows you to select a user role.
 * [RGBA Color](https://github.com/reyhoun/acf-rgba-color) - RGBA Color Picker field type.
 * [RGBA Color Picker](https://github.com/mosesdev/acf_rgba_color_picker) - A simple extension to the Wordpress default color picker to allow for an alpha value.
+* [Rooftop ACF Exposer](https://github.com/rooftopcms/rooftop-acf-exposer) - Rooftop ACF Exposer includes fields from the excellent Advanced Custom Fields plugin into the API.
 * [Sidebar Selector](https://github.com/danielpataki/acf-sidebar-selector) - Allows you to select a sidebar.
 * [Sites](https://github.com/jonathan-dejong/acf-sites) - Provides a field containing the sites in a multisite network.
 * [signature](https://github.com/AsmodeusNOIR/acf-signature) - Signature field.
