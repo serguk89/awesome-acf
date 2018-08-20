@@ -13,6 +13,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Code Helper](https://github.com/RadoslavGeorgiev/acf-code-helper) - Allows you to register fields by using PHP code, but without needing to specify a field key nor use it for conditional logic.
 * [ACF Columns](https://wordpress.org/plugins/acf-columns/) - With the ACF Columns plugin it is possible to arrange ACF fields in columns in the post editor.
 * [Advanced Custom Fields: CommonMark Field](https://wordpress.org/plugins/acf-commonmark/) - Markdown (CommonMark) field for Advanced Custom Fields.
+* [Advanced Custom Fields: Get nav menus](https://wordpress.org/plugins/acf-get-nav-menus/) - Get WordPress nav menus in ACF.
 * [Advanced Custom Fields: Shopify Collection Field](https://wordpress.org/plugins/acf-shopify-collection/) - A Select Dropdown Displaying Collections From A Shopify Store.
 * [ACF Complex Titles](https://github.com/MWDelaney/acf-complex-titles) - Complex titles with previews for WordPress content types using Advanced Custom Fields Pro 5.
 * [ACF Color Swatches](https://wordpress.org/plugins/acf-color-swatches/) - Allows for a radio type selection of a color swatch.
