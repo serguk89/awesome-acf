@@ -60,6 +60,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [Advanced Custom Fields: Rest](https://wordpress.org/plugins/acf-rest/) - Same as select, but options come from rest call.
 * [Advanced Custom Fields: Link Picker Field](https://wordpress.org/plugins/acf-link-picker-field/) - Adds an Advanced Custom Field field that allows the selection of a link utilising the WordPress link picker modal dialog.
 * [Advanced Custom Fields: Mailpoet](https://github.com/BeAPI/acf-mailpoet) - Add MAILPO icon selector.
+* [ACF Permalinks](https://wordpress.org/plugins/acf-permalinks/) - Plugin allows to use ACF values in permalink structure by adding %field_fieldname%, for posts, pages and custom post types. This is an extenion for the plugin.
 * [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - Exposes Advanced Custom Fields Endpoints in the WP REST API v2.
 * [ACF for WooCommerce](https://wordpress.org/plugins/acf-for-woocommerce/) - Show custom fields with conditional logic on front-end like Checkout page, Single product page.
 * [Address](https://github.com/strickdj/acf-field-address) - A field to hold an address: street, city, state, country.
