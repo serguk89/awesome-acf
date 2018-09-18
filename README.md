@@ -20,6 +20,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Country field](https://github.com/nlemoine/acf-country) - Adds a 'Country' field type for the Advanced Custom Fields WordPress plugin.
 * [ACF Admin Flexible Content Collapse](https://wordpress.org/plugins/acf-admin-flexible-content-collapse/) - Collapse and expand the layout settings in ACF field editor for a better overview and easier sorting of the layouts or moving fields between layouts.
 * [ACF: Better Search](https://wordpress.org/plugins/acf-better-search/) - Adds to default WordPress search engine the ability to search by content from selected fields of Advanced Custom Fields PRO plugin.
+* [ACF Duplicate Repeater](https://github.com/mcguffin/acf-duplicate-repeater) - Adds a duplicate button to ACF Repeater Fields.
 * [ACF Flexible Layouts Manager](https://wordpress.org/plugins/acf-flexible-layouts-manager/) - Add "Copy", "Duplicate", "Import" & "Paste" options for layout in ACF Flexible Content.
 * [ACF Fluent](https://github.com/samrap/acf-fluent) - A fluent interface for the Advanced Custom Fields WordPress plugin.
 * [ACF Frontend Display](https://wordpress.org/plugins/acf-frontend-display-by-catsplugins/) - Show custom fields with markup on frontend by shortcode.
