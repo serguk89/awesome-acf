@@ -89,6 +89,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [Child Post](https://github.com/lucasstark/acf-child-post-field) - ability to edit related posts directly from a parent post.
 * [Currency](https://github.com/nekojira/wp-currencies) - Choose currencies using WP Currencies.
 * [Date and Time Picker](https://github.com/soderlind/acf-field-date-time-picker) - allows you to add a Date and Time Picker field type.
+* [Developer Tools For ACF](https://wordpress.org/plugins/developer-tools-for-acf/) - Provide developer tools for ACF.
 * [Divider](https://github.com/Kreshnik/acf-divider-field) - An divider field that lets you group multiple fields under an divider.
 * [Disable ACF on Frontend](https://github.com/leepeterson/acf-disable-frontend) - Disable ACF functions on the front-end of WordPress in order to provide a performance boost.
 * [Dynamic Year](https://wordpress.org/plugins/acf-dynamic-year-select-field/) - Adds a dynamic year select option for Advanced Custom Fields.
