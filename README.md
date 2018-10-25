@@ -7,6 +7,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 *Compatible with Version 5.*
 
 * [ACF Advanced Search](https://wordpress.org/plugins/acf-advanced-search/) - This plugin extends the WordPress search widget and allows to search by content with filters in fields created using Advanced Custom Fields plugin.
+* [ACF Archive](https://wordpress.org/plugins/acf-archive/) - ACF Archives is a little plugin for helping you attach ACF fields to the archive template.
 * [ACF Autosize](https://wordpress.org/plugins/acf-autosize/) - A wordpress plugin to automatically resize and improve upon wysiwyg and textarea fields in Advanced Custom Fields.
 * [ACF Button Field](https://wordpress.org/plugins/acf-button/) - Adds a simple yet featured button field for ACF.
 * [ACF Contact Form 7 Field](https://github.com/lukecav/acf-cf7) - Adds a 'Contact Form 7' field type for the Advanced Custom Fields WordPress plugin.
