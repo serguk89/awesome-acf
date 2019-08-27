@@ -102,6 +102,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [Fewbricks](https://github.com/folbert/fewbricks) - A module extension to Advanced Custom Fields.
 * [Field Selector](https://github.com/danielpataki/acf-field_selector_field) - Allows you to select a custom set of fields.
 * [Frontend display](https://github.com/dadmor/ACF_frontend_display) - Display ACF form on frontend your site.
+* [Flexible Content Extended for Advanced Custom Fields](https://wordpress.org/plugins/acf-flexible-content-extended/) - Extends the ACF Flexible Content Field by transforming the layout list into a modal with image previews. Editing the fields layouts also happens in a modal for a better editing user experience.
 * [Flickr](https://github.com/phuisman88/flickrfield) - Grant you the ability to include photos, sets and galleries from your Flickr account.
 * [Fold Flexible Content](https://github.com/urre/acf-fold-flexible) - Collapsed flexible content panels and showing icons representing each field type.
 * [Font Awesome](https://wordpress.org/plugins/advanced-custom-fields-font-awesome/) - Allow users to select icon from font awesome.
