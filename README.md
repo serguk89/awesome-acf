@@ -70,6 +70,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/) - Exposes Advanced Custom Fields Endpoints in the WP REST API v2.
 * [ACF for WooCommerce](https://wordpress.org/plugins/acf-for-woocommerce/) - Show custom fields with conditional logic on front-end like Checkout page, Single product page.
 * [Address](https://github.com/strickdj/acf-field-address) - A field to hold an address: street, city, state, country.
+* [Admin Columns for ACF Fields](https://wordpress.org/plugins/admin-columns-for-acf-fields/) - Add columns for your ACF fields to post and taxonomy index pages in the WP backend.
 * [Advanced Custom Fields: Bootstrap Button](https://wordpress.org/plugins/acf-boostrap-button/) - Add a field to create a Bootstrap Button for the popular Advanced Custom Fields plugin, with internal or external link.
 * [Advanced Custom Fields: User Network](https://github.com/BeAPI/acf-user-network) - Add an ACF User Network list selector.
 * [Address/Map](https://github.com/chrisgoddard/acf-address-map-field) - A better map field for Advanced Custom Fields (includes address, phone, website, etc).
