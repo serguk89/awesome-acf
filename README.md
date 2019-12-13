@@ -182,6 +182,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [WP-CLI for Advanced Custom Fields](https://github.com/hoppinger/advanced-custom-fields-wpcli) - WP-CLI for Advanced Custom Fields helps you manage your field-groups through WP-CLI.
 * [WPML ACF Relations](https://github.com/mcguffin/wpml-acf-relations) - Sets ACF Relations to their translated versions when duplicating a WordPress Post for translation with WPML.
 * [ACF YouTube Picker](https://wordpress.org/plugins/acf-youtube-picker/) - Search and select videos on YouTube without leaving the page.
+* [ACF Pro show fields shortcode](https://wordpress.org/plugins/acf-pro-show-fields-shortcode/) - If you use ACF Pro, you can display some fields on your pages with shortcode. e.g. [mxasts_acfp_show_field debug="true" get_field="card" show_all_fields="true"].
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in [awesome awesomeness](https://github.com/bayandin/awesome-awesomeness).
