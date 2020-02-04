@@ -49,6 +49,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF - Relationship MIME type filter](https://wordpress.org/plugins/acf-relationship-mime-type-filter/) - This plugin is an add-on for Advanced Custom Fields. It allows you to use "post_mime_type" filter in "relationship" field.
 * [ACF Stylizer](https://wordpress.org/plugins/acf-stylizer/) - Simple plugin that stylizes Advanced Custom Fields meta boxes to make them more obvious.
 * [ACF CPT Options Pages](https://github.com/Tusko/ACF-CPT-Options-Pages) - Small addon for ACF Options. Adds ACF options page per custom post type.
+* [ACF On-The-Go](https://wordpress.org/plugins/acf-on-the-go/) - Edit ACF text fields from the front end of your website.
 * [ACF Options for Polylang](https://github.com/BeAPI/acf-options-for-polylang) - Add ACF options page support for Polylang.
 * [ACF Output Helper Functions](https://github.com/mrwweb/acf-helper-functions) - A powerful set of functions for outputting common markup patterns with Advanced Custom Fields Plugin for WordPress.
 * [ACF Real Media Library Field](https://wordpress.org/plugins/acf-real-media-library-field/) - Add field type to select a media folder (Real Media Library extension).
