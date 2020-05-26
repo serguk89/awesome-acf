@@ -129,6 +129,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [Layer Slider](https://github.com/tkin1235/acf-layer_slider) - Adds a Layer Slider field.
 * [Leaflet map](https://github.com/jensjns/acf-leaflet-field) - Adds a Leaflet map-field.
 * [Location Nav](https://wordpress.org/plugins/location-nav-menu-for-acf/) - Unleash the full power of the ACF PRO plugin to extend WordPress menu functionality. With this add-on, you can display custom fields of different types directly under general menu field items while editing your menu in the admin panel.
+* [LuckyWP ACF Menu Field](https://wordpress.org/plugins/luckywp-acf-menu-field/) - Add navigation menu field type to Advanced Custom Fields.
 * [Markdown](https://github.com/jensjns/acf-markdown-field) - A textarea with some extra tools and features that makes writing markdown more fun.
 * [Menu Chooser](https://github.com/reyhoun/acf-menu-chooser) - Allows you to select a menu.
 * [Nav Menu Field](https://github.com/jgraup/advanced-custom-fields-nav-menu-field) - Allowing you to select from the menus you create in the WordPress Admin backend to use on your website's frontend.
