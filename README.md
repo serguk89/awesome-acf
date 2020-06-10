@@ -31,7 +31,8 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Frontend Display](https://wordpress.org/plugins/acf-frontend-display-by-catsplugins/) - Show custom fields with markup on frontend by shortcode.
 * [ACF Front End Editor](https://github.com/HorionDigital/advanced-custom-fields-front-end-editor) - The add-on allows admins to edit text fields, textareas and wysiwyg fields from front end simillary as you would edit a Google doc.
 * [ACF Gravity Forms Add-on](https://wordpress.org/plugins/acf-gravityforms-add-on/) - Advanced Custom Field with which you can select Gravity forms.
-* [ACF: Gravity Forms](https://github.com/michaeldozark/acf-gravity-forms) - Adds Gravity Forms Field Type to Advanced Custom Fields
+* [ACF: Gravity Forms](https://github.com/michaeldozark/acf-gravity-forms) - Adds Gravity Forms Field Type to Advanced Custom Fields.
+* [ACF For Gridsome](https://wordpress.org/plugins/acf-for-gridsome/) - Use Gridsome with ACF plugin.
 * [ACF Hider](https://wordpress.org/plugins/acf-hider/) - Hides the Advanced Custom Fields menu item in the Admin Dashboard.
 * [ACF Location Rules](https://github.com/billerickson/acf-location-rules) - Custom location rules for Advanced Custom Fields.
 * [Advanced Custom Fields: Image Aspect Ratio Crop Field](https://wordpress.org/plugins/acf-image-aspect-ratio-crop/) - ACF field that allows user to crop image to a specific aspect ratio.
