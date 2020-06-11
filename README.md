@@ -106,6 +106,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [Dynamic Year](https://wordpress.org/plugins/acf-dynamic-year-select-field/) - Adds a dynamic year select option for Advanced Custom Fields.
 * [Dynamic Table](https://github.com/Jeradin/acf-dynamic-table-field) - Adds a Dynamic Table Field to Advanced Custom Fields.
 * [Enhanced Message Field](https://wordpress.org/plugins/acf-enhanced-message-field/) - Adds an enhanced version of the default Message field to accept PHP and certainly no wpauto().
+* [Extends ACF to save json-file in plugin directory](https://wordpress.org/plugins/extend-acf-acf-json-directory/) - Extends ACF to save the json-files in the plugin directory instead of the theme or child theme directory.
 * [Fancy Repeater](https://github.com/lucasstark/acf-fancy-repeater-field) - An updated user interface for Repeater Field.
 * [Fast Flexy Content](https://wordpress.org/plugins/acf-fast-flexy/) - Customize ACF Flexible field with zero coding.
 * [Fewbricks](https://github.com/folbert/fewbricks) - A module extension to Advanced Custom Fields.
