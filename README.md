@@ -100,6 +100,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [CSS Margin & Padding Settings](https://github.com/tmconnect/ACF-CSS-Margin-Padding-Settings) - set margins, paddings, border width, border color, border radius and border styling. Also you can set the background and text color.
 * [Child Post](https://github.com/lucasstark/acf-child-post-field) - ability to edit related posts directly from a parent post.
 * [Currency](https://github.com/nekojira/wp-currencies) - Choose currencies using WP Currencies.
+* [Custom Field Content Finder for SEOPress and ACF](https://wordpress.org/plugins/motiontactic-seopress-acf-content-finder/) - Add post ACF content to SEOPress.
 * [Date and Time Picker](https://github.com/soderlind/acf-field-date-time-picker) - allows you to add a Date and Time Picker field type.
 * [Developer Tools For ACF](https://wordpress.org/plugins/developer-tools-for-acf/) - Provide developer tools for ACF.
 * [Divider](https://github.com/Kreshnik/acf-divider-field) - An divider field that lets you group multiple fields under an divider.
