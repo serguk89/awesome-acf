@@ -128,6 +128,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [Hue Color Picker](https://github.com/reyhoun/acf-hue-color-picker) - Allow users to select a hue color value.
 * [Icon Selector](https://github.com/Kreshnik/acf-field-icon-font) - Font icon selector field that lets you preview a font icon.
 * [Image Crop](https://github.com/andersthorborg/ACF-Image-Crop) - An image field making it possible/required for the user to crop the selected image to the specified image size or dimensions.
+* [Image Point Selector Field](https://wordpress.org/plugins/image-point-selector-field-for-advanced-custom-fields/) - Image Point Selector Field for Advanced Custom Fields.
 * [Image Resize Parameter](https://github.com/reyhoun/acf-image-resize-parameter) - Get Image Resize Parameter from user.
 * [Instagram](https://github.com/francoiscote/acf-field-instagram) - Fetches the Instagram API for a single media information based on the provided shortcode.
 * [Justified Image Grid](https://github.com/tmconnect/ACF-Justified-Image-Grid) - Create an elegant and full responsive image grid.
