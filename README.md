@@ -44,6 +44,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Medium Editor Field](https://wordpress.org/plugins/acf-medium-editor-field/) - Medium Editor Field for ACF.
 * [ACF Multistep](https://wordpress.org/plugins/acf-multistep/) - ACF Multistep make it easier for your clients to follow to input fields.
 * [ACF Multi Dates Field](https://wordpress.org/plugins/acf-multi-dates-picker/) - Advanced Custom Fields Multi Dates Picker.
+* [ACF: Multiple Taxonomy](https://wordpress.org/plugins/acf-multiple-taxonomy/) - A simple plugin to add a Multiple Taxonomy field. It allows you to select term(s) from multiple taxonomy.
 * [ACF Ninjaforms Add-on](https://wordpress.org/plugins/acf-multistep/) - Advanced Custom Field with which we can select Ninjaforms.
 * [ACF Price Field](https://wordpress.org/plugins/acf-price/) - ACF Price field with number format.
 * [ACF PHP Recovery Tool](https://github.com/BeAPI/ACF-PHP-Recovery) - Converts your PHP export back-in as an editable ACF fields. To be used when you lose the original database and json fieldsets.
