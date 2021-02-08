@@ -68,6 +68,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Tab & Accordion Title Icons](https://wordpress.org/plugins/acf-tab-accordion-title-icons/) - Add icons to the titles of ACF Tabs and Accordions.
 * [ACF Tooltip](https://wordpress.org/plugins/acf-tooltip/) - Displays ACF field instructions as tooltips.
 * [ACF viewer for WooCommerce](https://wordpress.org/plugins/acf-viewer-for-woocommerce/) - Easy way to view ACF fields for Woocommerce products. Advanced custom fields addon.
+* [Advanced Custom Fields: ACF S3 Media Files](https://wordpress.org/plugins/acf-s3-media-files/) - Adds a new field type that allows media to be uploaded to AWS S3.
 * [Advanced Custom Fields: Auto JSON Sync](https://github.com/jawittdesigns/advanced-custom-fields-auto-json-sync) - Automatically update your local ACF JSON field groups.
 * [Advanced Custom Fields: Token Field](https://wordpress.org/plugins/token-field-for-advanced-custom-fields/) - Adds a tokenized text box for saving comma separated values.
 * [Advanced Forms Processors](https://wordpress.org/plugins/acf-processors/) -  Adds form processors to the Advanced Forms plugin.
