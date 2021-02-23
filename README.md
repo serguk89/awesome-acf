@@ -176,6 +176,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [Styles](https://github.com/ractoon/acf-section-styles) - An ACF Pro field plugin to configure CSS styles including margin, borders, padding, and backgrounds.
 * [Sub Field Chooser](https://github.com/reyhoun/acf-subfield-chooser) - Return custom subfield value of a custom repeater field as a select box.
 * [Smart Button](https://github.com/gillesgoetsch/acf-smart-button) - A simple, clean and lean acf Field that allows the user to select an internal link as a post_object or an external link as a url field via a smooth toggle.
+* [Synchronize Editor and ACF Color Pickers](https://wordpress.org/plugins/synchronize-editor-and-acf-color-pickers/) - Synchronize Advanced Custom Fields color picker fields with the editor (gutenberg) color pickers.
 * [TablePress](https://github.com/tylerdigital/acf-tablepress) - Select a TablePress table.
 * [Tag Field](https://github.com/kolhoffmmm/acf_tags) - Creates a simple field to add & edit non hieratchical taxonomies, possible to add taxonomies.
 * [Term](https://github.com/osadi/osadi-acf-field-term) - Dropdown or multiselect of all available terms.
