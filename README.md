@@ -49,6 +49,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Price Field](https://wordpress.org/plugins/acf-price/) - ACF Price field with number format.
 * [ACF PHP Recovery Tool](https://github.com/BeAPI/ACF-PHP-Recovery) - Converts your PHP export back-in as an editable ACF fields. To be used when you lose the original database and json fieldsets.
 * [ACF Post Type Selector](https://github.com/BeAPI/bea-acf-post-type-selector) - Add a post type selector field.
+* [ACF Post Object Elementor List Widget](https://wordpress.org/plugins/acf-post-object-elementor-list-widget/) - Adds the ability to display the contents of an ACF Post Object field as a list of post links.
 * [ACF Quick Edit Fields](https://wordpress.org/plugins/acf-quickedit-fields/) - Show Advanced Custom Fields in post list table. Edit field values in Quick Edit and / or Bulk edit.
 * [ACF Range Field](https://wordpress.org/plugins/acf-ninjaforms-add-on/ - Adds a 'Range' field type for the Advanced Custom Fields WordPress plugin.
 * [ACF - Relationship MIME type filter](https://wordpress.org/plugins/acf-relationship-mime-type-filter/) - This plugin is an add-on for Advanced Custom Fields. It allows you to use "post_mime_type" filter in "relationship" field.
