@@ -30,6 +30,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF: Fields in Custom Table](https://wordpress.org/plugins/acf-fields-in-custom-table/) - Stores ACF custom fields in a custom table instead of WordPress core meta tables.
 * [ACF Flexible Layouts Manager](https://wordpress.org/plugins/acf-flexible-layouts-manager/) - Add "Copy", "Duplicate", "Import" & "Paste" options for layout in ACF Flexible Content.
 * [ACF Fluent](https://github.com/samrap/acf-fluent) - A fluent interface for the Advanced Custom Fields WordPress plugin.
+* [ACF For Dokan](https://wordpress.org/plugins/acf-for-dokan/) - Allows admin to create new custom field for vendor add/edit product in vendor dashboard.
 * [ACF Frontend Display](https://wordpress.org/plugins/acf-frontend-display-by-catsplugins/) - Show custom fields with markup on frontend by shortcode.
 * [ACF Front End Editor](https://github.com/HorionDigital/advanced-custom-fields-front-end-editor) - The add-on allows admins to edit text fields, textareas and wysiwyg fields from front end simillary as you would edit a Google doc.
 * [ACF Gravity Forms Add-on](https://wordpress.org/plugins/acf-gravityforms-add-on/) - Advanced Custom Field with which you can select Gravity forms.
