@@ -113,6 +113,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [Disable ACF on Frontend](https://github.com/leepeterson/acf-disable-frontend) - Disable ACF functions on the front-end of WordPress in order to provide a performance boost.
 * [Dynamic Year](https://wordpress.org/plugins/acf-dynamic-year-select-field/) - Adds a dynamic year select option for Advanced Custom Fields.
 * [Dynamic Table](https://github.com/Jeradin/acf-dynamic-table-field) - Adds a Dynamic Table Field to Advanced Custom Fields.
+* [Edit Custom Fields](https://wordpress.org/plugins/edit-custom-fields/) - A simple interface to edit or delete Custom Fields.
 * [Enhanced Message Field](https://wordpress.org/plugins/acf-enhanced-message-field/) - Adds an enhanced version of the default Message field to accept PHP and certainly no wpauto().
 * [Extends ACF to save json-file in plugin directory](https://wordpress.org/plugins/extend-acf-acf-json-directory/) - Extends ACF to save the json-files in the plugin directory instead of the theme or child theme directory.
 * [Fancy Repeater](https://github.com/lucasstark/acf-fancy-repeater-field) - An updated user interface for Repeater Field.
