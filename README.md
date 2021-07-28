@@ -43,6 +43,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [Advanced Custom Fields: Image Aspect Ratio Crop Field](https://wordpress.org/plugins/acf-image-aspect-ratio-crop/) - ACF field that allows user to crop image to a specific aspect ratio.
 * [ACF: Image Hotspots Field](https://wordpress.org/plugins/acf-image-mapping-hotspots/) - Advanced Custom Fields add-on to allow the capturing of coordinates on an image, based on user clicks.
 * [ACF Image Sizes](https://wordpress.org/plugins/acf-image-sizes/) - Define the sizes of images created when uploading new images to ACFs image and gallery fields.
+* [ACF Media Cluster](https://wordpress.org/plugins/acf-media-cluster/) - An extension for Advance Custom Fields which provides the ability to add multiple media into a post.
 * [ACF Medium Editor Field](https://wordpress.org/plugins/acf-medium-editor-field/) - Medium Editor Field for ACF.
 * [ACF Multistep](https://wordpress.org/plugins/acf-multistep/) - ACF Multistep make it easier for your clients to follow to input fields.
 * [ACF Multi Dates Field](https://wordpress.org/plugins/acf-multi-dates-picker/) - Advanced Custom Fields Multi Dates Picker.
