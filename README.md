@@ -41,6 +41,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF For Gridsome](https://wordpress.org/plugins/acf-for-gridsome/) - Use Gridsome with ACF plugin.
 * [ACF Hider](https://wordpress.org/plugins/acf-hider/) - Hides the Advanced Custom Fields menu item in the Admin Dashboard.
 * [ACF Hide Layout](https://wordpress.org/plugins/acf-hide-layout/) - Easily hide the layout of the flexible content on the frontend but still keep it in the backend.
+* [ACFist](https://wordpress.org/plugins/acfist/) - Empower ACF with more features.
 * [ACF Location Rules](https://github.com/billerickson/acf-location-rules) - Custom location rules for Advanced Custom Fields.
 * [Advanced Custom Fields: Image Aspect Ratio Crop Field](https://wordpress.org/plugins/acf-image-aspect-ratio-crop/) - ACF field that allows user to crop image to a specific aspect ratio.
 * [ACF: Image Hotspots Field](https://wordpress.org/plugins/acf-image-mapping-hotspots/) - Advanced Custom Fields add-on to allow the capturing of coordinates on an image, based on user clicks.
