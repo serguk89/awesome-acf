@@ -25,6 +25,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF City Selector](https://wordpress.org/plugins/acf-city-selector/) - An extension for ACF which allows you to select a city based on country and province/state.
 * [ACF Clone Repeater](https://wordpress.org/plugins/acf-clone-repeater/) - This Plugin is Duplicate Repeater and Layout Fields in ACF Pro.
 * [ACF Country field](https://github.com/nlemoine/acf-country) - Adds a 'Country' field type for the Advanced Custom Fields WordPress plugin.
+* [ACF Customizer](https://github.com/mcguffin/acf-customizer) - Bringing ACF Fields to the WordPress Customizer.
 * [ACF Admin Flexible Content Collapse](https://wordpress.org/plugins/acf-admin-flexible-content-collapse/) - Collapse and expand the layout settings in ACF field editor for a better overview and easier sorting of the layouts or moving fields between layouts.
 * [ACF: Better Search](https://wordpress.org/plugins/acf-better-search/) - Adds to default WordPress search engine the ability to search by content from selected fields of Advanced Custom Fields PRO plugin.
 * [ACF Display](https://wordpress.org/plugins/acf-display/) - Automatically displays fields on posts, pages and custom post types created with ACF.
