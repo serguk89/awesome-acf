@@ -76,6 +76,7 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Timber Integration](https://wordpress.org/plugins/acf-timber-integration/) - Automatically enables in the Timber twig context variable all user-defined advanced custom fields.
 * [ACF Theme Code for Advanced Custom Fields](https://wordpress.org/plugins/acf-theme-code/) - Generates theme code for ACF field groups to speed up development.
 * [ACF Tab & Accordion Title Icons](https://wordpress.org/plugins/acf-tab-accordion-title-icons/) - Add icons to the titles of ACF Tabs and Accordions.
+* [ACF to Custom Database Tables](https://wordpress.org/plugins/acf-to-custom-database-tables/) - An extension for Advanced Custom Fields plugin which lets you save custom fields data in a custom database table.
 * [ACF Tooltip](https://wordpress.org/plugins/acf-tooltip/) - Displays ACF field instructions as tooltips.
 * [ACF viewer for WooCommerce](https://wordpress.org/plugins/acf-viewer-for-woocommerce/) - Easy way to view ACF fields for Woocommerce products. Advanced custom fields addon.
 * [ACF WP-Objects](https://github.com/mcguffin/acf-wp-objects) - Connecting WordPress Data with ACF Fields.
