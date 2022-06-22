@@ -15,7 +15,8 @@ A collection of third party add-ons for [Advanced Custom Fields](http://www.adva
 * [ACF Button Field](https://wordpress.org/plugins/acf-button/) - Adds a simple yet featured button field for ACF.
 * [ACF Contact Form 7 Field](https://github.com/lukecav/acf-cf7) - Adds a 'Contact Form 7' field type for the Advanced Custom Fields WordPress plugin.
 * [ACF Code Helper](https://github.com/RadoslavGeorgiev/acf-code-helper) - Allows you to register fields by using PHP code, but without needing to specify a field key nor use it for conditional logic.
-* [ACF Conditional Logic Advanced](https://wordpress.org/plugins/acf-conditional-logic-advanced/) - Adds an advanced conditional logic field setting to ACF that can show/hide individual fields based on post template, format, and/or category.
+* [ACF Conditional Logic Advanced](https://wordpress.org/plugins/acf-conditional-logic-extended/) - Adds an advanced conditional logic field setting to ACF that can show/hide individual fields based on post template, format, and/or category.
+* [ACF Conditional Logic Extended](https://wordpress.org/plugins/acf-conditional-logic-advanced/) - Display Field Group based on a field value from another group.
 * [ACF Columns](https://wordpress.org/plugins/acf-columns/) - With the ACF Columns plugin it is possible to arrange ACF fields in columns in the post editor.
 * [ACF Copilot](https://wordpress.org/plugins/acf-copilot/) - Improve your Advanced Custom Fields workflow and development process with LivePreview, Code Snippets and Bootstrap 5 Components.
 * [Advanced Custom Fields: CommonMark Field](https://wordpress.org/plugins/acf-commonmark/) - Markdown (CommonMark) field for Advanced Custom Fields.
